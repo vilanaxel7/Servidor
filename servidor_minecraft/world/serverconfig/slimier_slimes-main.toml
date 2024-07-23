@@ -1,16 +1,19 @@
 
 ["Slimier Slimes Options"]
 
-	["Slimier Slimes Options"."Vanilla Slime Options"]
+	["Slimier Slimes Options"."Slime Block Options"]
 		# 
 		#-----------------------------------------------------
 		#
-		# Allows the spawning of the Vanilla Slime. This will also allow
-		# slimeballs and the original slimeblock to reappear.
-		# Defaults to false.
+		# Activates special slime block effects. If you do not want slime blocks to
+		# bump you around or be used as a factory conveyor belt system, 
+		# set this to false. 
+		# Defaults to true.
 		#
 		#
-		allowVanillaSlime = false
+		allowSlimeBlockEffects = true
+
+	["Slimier Slimes Options"."Vanilla Slime Options"]
 		# 
 		#-----------------------------------------------------
 		#
@@ -20,6 +23,15 @@
 		#
 		#
 		maintainChunkSpawning = false
+		# 
+		#-----------------------------------------------------
+		#
+		# Allows the spawning of the Vanilla Slime. This will also allow
+		# slimeballs and the original slimeblock to reappear.
+		# Defaults to false.
+		#
+		#
+		allowVanillaSlime = false
 
 	["Slimier Slimes Options"."Slime Spawning Options"]
 		# 
@@ -41,16 +53,4 @@
 		#
 		#
 		totalSlimeSpawnWeight = 150
-
-	["Slimier Slimes Options"."Slime Block Options"]
-		# 
-		#-----------------------------------------------------
-		#
-		# Activates special slime block effects. If you do not want slime blocks to
-		# bump you around or be used as a factory conveyor belt system, 
-		# set this to false. 
-		# Defaults to true.
-		#
-		#
-		allowSlimeBlockEffects = true
 

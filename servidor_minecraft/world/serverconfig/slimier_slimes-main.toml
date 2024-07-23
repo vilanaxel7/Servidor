@@ -1,0 +1,56 @@
+
+["Slimier Slimes Options"]
+
+	["Slimier Slimes Options"."Vanilla Slime Options"]
+		# 
+		#-----------------------------------------------------
+		#
+		# Allows the spawning of the Vanilla Slime. This will also allow
+		# slimeballs and the original slimeblock to reappear.
+		# Defaults to false.
+		#
+		#
+		allowVanillaSlime = false
+		# 
+		#-----------------------------------------------------
+		#
+		# Maintains the spawning of new slimes within chunks.
+		# Otherwise slimes will have spawns everywhere, like normal mobs.
+		# Defaults to false.
+		#
+		#
+		maintainChunkSpawning = false
+
+	["Slimier Slimes Options"."Slime Spawning Options"]
+		# 
+		#-----------------------------------------------------
+		#
+		# Determines if slimes should be bounded by a total weight. 
+		# Disabling this will (likely) make slimes more common in the world.
+		# Enabling it will cause a calculation to happen that limits the total weight.
+		# Defaults to true.
+		#
+		#
+		useTotalSlimeSpawnWeight = true
+		# 
+		#-----------------------------------------------------
+		#
+		# Determines the spawning weight of slimes. All Slimes together
+		# are bound by this weight. 100 makes slimes as common as zombies.
+		# Defaults to 150.
+		#
+		#
+		totalSlimeSpawnWeight = 150
+
+	["Slimier Slimes Options"."Slime Block Options"]
+		# 
+		#-----------------------------------------------------
+		#
+		# Activates special slime block effects. If you do not want slime blocks to
+		# bump you around or be used as a factory conveyor belt system, 
+		# set this to false. 
+		# Defaults to true.
+		#
+		#
+		allowSlimeBlockEffects = true
+

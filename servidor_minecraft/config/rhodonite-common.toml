@@ -1,0 +1,17 @@
+
+[armor]
+	#Rhodonite armor flight
+	flight = true
+
+[heart]
+	#Rhodonite heart explosion
+	explosion = true
+	#Rhodonite heart explosion chance
+	#Range: 0 ~ 100
+	explosion_chance = 15
+	#Rhodonite heart explosion strength
+	#Range: 0.0 ~ 100.0
+	explosion_strength = 5.0
+	#Rhodonite heart explosion block damage
+	explosion_blockdamage = true
+

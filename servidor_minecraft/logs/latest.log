@@ -5357,3 +5357,46 @@ java.lang.IllegalArgumentException: Can't find block outer_end:violite_brick_ver
 [24Jul2024 01:17:21.424] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
 [24Jul2024 01:17:30.923] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
 [24Jul2024 01:17:30.923] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:18:43.874] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:18:45.722] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:19:06.572] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:19:20.173] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:19:30.934] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2bacd1ff
+[24Jul2024 01:19:30.945] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ssnqz[/0:0:0:0:0:0:0:1%0:36046] logged in with entity id 18875 at (271.0724387538978, 66.0, -11.942217708649387)
+[24Jul2024 01:19:30.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ssnqz joined the game
+[24Jul2024 01:19:30.983] [Server thread/INFO] [Waila/]: Syncing config to ssnqz (14236279-60e2-3129-aa79-ebaec4b69eb6)
+[24Jul2024 01:19:46.078] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ssnqz lost connection: Timed out
+[24Jul2024 01:19:46.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ssnqz left the game
+[24Jul2024 01:20:00.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[24Jul2024 01:20:00.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jul2024 01:20:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jul2024 01:20:00.933] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Hazelitox7 lost connection: Server closed
+[24Jul2024 01:20:00.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hazelitox7 left the game
+[24Jul2024 01:20:00.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jul2024 01:20:00.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jul2024 01:20:03.937] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jul2024 01:20:03.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jul2024 01:20:03.939] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jul2024 01:20:03.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jul2024 01:20:03.940] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jul2024 01:20:03.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mining_dimension:mining
+[24Jul2024 01:20:03.940] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[24Jul2024 01:20:03.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[24Jul2024 01:20:03.941] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[24Jul2024 01:20:03.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/atum:atum
+[24Jul2024 01:20:03.941] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[24Jul2024 01:20:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[24Jul2024 01:20:03.942] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[24Jul2024 01:20:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/gaiadimension:gaia_dimension
+[24Jul2024 01:20:03.943] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (gaia_dimension): All chunks are saved
+[24Jul2024 01:20:03.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[24Jul2024 01:20:03.944] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[24Jul2024 01:20:04.013] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jul2024 01:20:04.123] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jul2024 01:20:04.123] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jul2024 01:20:04.124] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[24Jul2024 01:20:04.124] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[24Jul2024 01:20:04.124] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[24Jul2024 01:20:04.125] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[24Jul2024 01:20:04.125] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (gaia_dimension): All chunks are saved
+[24Jul2024 01:20:04.125] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved

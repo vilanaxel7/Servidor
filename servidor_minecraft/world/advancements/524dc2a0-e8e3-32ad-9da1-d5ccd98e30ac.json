@@ -935,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-07-24 22:59:01 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_hellbark_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:15:19 +0000"
@@ -1235,6 +1241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/drawer": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:16 +0000"
@@ -1322,6 +1334,12 @@
   "smallships:recipes/lotr_pear_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
     },
     "done": true
   },
@@ -1819,6 +1837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2024-07-23 22:40:21 +0000"
@@ -1984,6 +2008,12 @@
   "smallships:recipes/lotr_pear_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
     },
     "done": true
   },
@@ -2173,6 +2203,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-07-24 22:14:05 +0000"
@@ -2200,6 +2242,12 @@
   "smallships:recipes/oak_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
     },
     "done": true
   },
@@ -2290,6 +2338,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-07-24 00:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
     },
     "done": true
   },
@@ -3310,6 +3364,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-07-24 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2024-07-23 23:28:25 +0000"
@@ -3520,6 +3586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-07-23 22:13:48 +0000"
@@ -3572,6 +3644,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-07-24 23:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-07-24 22:14:05 +0000"
@@ -3587,6 +3665,12 @@
   "mcwfurnitures:recipes/spruce/spruce_box_2": {
     "criteria": {
       "has_planks": "2024-07-23 22:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
     },
     "done": true
   },
@@ -4361,6 +4445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/cabinet_door": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:16 +0000"
@@ -4406,6 +4496,12 @@
   "mcwfurnitures:recipes/warped/warped_chair": {
     "criteria": {
       "has_planks": "2024-07-23 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-07-24 22:59:01 +0000"
     },
     "done": true
   },
@@ -4490,6 +4586,12 @@
   "smallships:recipes/lotr_maple_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
     },
     "done": true
   },
@@ -5770,6 +5872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:15:19 +0000"
@@ -5875,6 +5983,12 @@
   "mcwfurnitures:recipes/oak/oak_modern_chair": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-24 23:00:13 +0000"
     },
     "done": true
   },

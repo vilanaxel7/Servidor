@@ -1383,6 +1383,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2024-07-24 22:58:27 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/oak/oak_chair": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
@@ -2052,6 +2058,12 @@
   "smallships:recipes/lotr_lebethron_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:snowgolem": {
+    "criteria": {
+      "crafting_table": "2024-07-24 22:56:23 +0000"
     },
     "done": true
   },

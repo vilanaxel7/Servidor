@@ -727,6 +727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-07-24 22:19:56 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/golden_hammer": {
     "criteria": {
       "has_gold_ingot": "2024-07-23 23:13:57 +0000"
@@ -1102,6 +1108,12 @@
   "slimier-slimes:recipes/misc/gray_dye": {
     "criteria": {
       "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-07-24 22:19:56 +0000"
     },
     "done": true
   },
@@ -1707,6 +1719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-07-24 22:19:56 +0000"
+    },
+    "done": true
+  },
   "evolved_rpg:evolved_rpg_root": {
     "criteria": {
       "evolved_rpg_root": "2024-07-23 23:08:24 +0000"
@@ -1926,6 +1944,12 @@
   "smallships:recipes/acacia_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-07-24 22:19:56 +0000"
     },
     "done": true
   },
@@ -2325,6 +2349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-07-24 22:19:56 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/birch_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -2714,6 +2744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-07-24 22:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:50 +0000"
@@ -2921,6 +2957,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-07-24 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-07-24 22:32:21 +0000"
     },
     "done": true
   },
@@ -3511,6 +3553,12 @@
   "mcwfurnitures:recipes/oak/oak_modern_desk_left": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-07-24 22:19:56 +0000"
     },
     "done": true
   },
@@ -4434,6 +4482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-07-24 22:19:56 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -4858,6 +4912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-07-24 22:19:56 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -4915,6 +4975,12 @@
   "smallships:recipes/envi_wisteria_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-07-24 22:19:56 +0000"
     },
     "done": true
   },

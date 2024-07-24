@@ -5281,3 +5281,79 @@ java.lang.IllegalArgumentException: Can't find block outer_end:violite_brick_ver
 [24Jul2024 01:06:58.974] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
 [24Jul2024 01:07:32.574] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
 [24Jul2024 01:07:37.530] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:07:43.429] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/2870, l='ServerLevel[world]', x=39.55, y=62.31, z=1034.41] died, message: 'Librarian was slain by Crocodile'
+[24Jul2024 01:07:53.824] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:07:53.824] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:07:54.823] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:08:13.334] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ssnqz lost connection: Timed out
+[24Jul2024 01:08:13.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ssnqz left the game
+[24Jul2024 01:08:43.724] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:08:52.623] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:08:52.623] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:08:53.123] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:09:41.191] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5f85a196
+[24Jul2024 01:09:41.205] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ssnqz[/0:0:0:0:0:0:0:1%0:36946] logged in with entity id 10623 at (31.4634985885474, 62.9375, 1109.8775614226884)
+[24Jul2024 01:09:41.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ssnqz joined the game
+[24Jul2024 01:09:41.243] [Server thread/INFO] [Waila/]: Syncing config to ssnqz (14236279-60e2-3129-aa79-ebaec4b69eb6)
+[24Jul2024 01:09:41.924] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:09:41.993] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:09:41.995] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:09:41.995] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:09:42.031] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:10:11.492] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ssnqz lost connection: Timed out
+[24Jul2024 01:10:11.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ssnqz left the game
+[24Jul2024 01:10:30.772] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:10:30.773] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:10:56.025] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:00.186] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@65e281dd
+[24Jul2024 01:11:00.197] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ssnqz[/0:0:0:0:0:0:0:1%0:57248] logged in with entity id 12347 at (31.52767881763577, 62.9375, 1109.3268032756448)
+[24Jul2024 01:11:00.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ssnqz joined the game
+[24Jul2024 01:11:00.243] [Server thread/INFO] [Waila/]: Syncing config to ssnqz (14236279-60e2-3129-aa79-ebaec4b69eb6)
+[24Jul2024 01:11:00.780] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:00.780] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:00.782] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:00.792] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:00.833] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:00.842] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:00.845] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:00.845] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:00.876] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:00.876] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:05.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Hazelitox7: Teleported ssnqz to Hazelitox7]
+[24Jul2024 01:11:05.483] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:05.575] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:11:30.486] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ssnqz lost connection: Timed out
+[24Jul2024 01:11:30.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ssnqz left the game
+[24Jul2024 01:12:05.422] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:12:05.425] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:12:06.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Hazelitox7: Gave 64 [Bread] to Hazelitox7]
+[24Jul2024 01:12:11.123] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:12:16.836] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7b118bc4
+[24Jul2024 01:12:16.845] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ssnqz[/0:0:0:0:0:0:0:1%0:40002] logged in with entity id 13986 at (278.8749720960172, 65.0, -0.23751068592754981)
+[24Jul2024 01:12:16.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ssnqz joined the game
+[24Jul2024 01:12:16.896] [Server thread/INFO] [Waila/]: Syncing config to ssnqz (14236279-60e2-3129-aa79-ebaec4b69eb6)
+[24Jul2024 01:12:23.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Hazelitox7: Teleported ssnqz to Hazelitox7]
+[24Jul2024 01:12:31.979] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ssnqz lost connection: Timed out
+[24Jul2024 01:12:31.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ssnqz left the game
+[24Jul2024 01:12:44.124] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:12:49.673] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:12:49.677] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:13:16.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Hazelitox7 has made the advancement [One Ticket Please]
+[24Jul2024 01:13:23.323] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:13:23.323] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:13:29.673] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:13:29.673] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:14:13.672] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:14:13.672] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:14:36.624] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:14:52.574] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:15:12.373] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:15:20.274] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:16:10.823] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:16:12.672] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:16:12.673] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:17:00.223] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:17:12.524] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:17:21.424] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:17:30.923] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!
+[24Jul2024 01:17:30.923] [Server thread/WARN] [com.cgt.evolvedrpg.EvolvedRpgMod/]: Failed to load dependency world for procedure CoboldMinerNaturalSpawnConditions!

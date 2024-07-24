@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "evolved_rpg:brimming_shard": {
+    "criteria": {
+      "brimming_shard": "2024-07-24 22:01:07 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/warped/warped_nightstand_3": {
     "criteria": {
       "has_planks": "2024-07-23 23:25:53 +0000"
@@ -5586,6 +5592,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 22:23:29 +0000"
+    },
+    "done": true
+  },
+  "evolved_rpg:shade_tuch": {
+    "criteria": {
+      "shade_tuch": "2024-07-24 22:01:14 +0000"
     },
     "done": true
   },

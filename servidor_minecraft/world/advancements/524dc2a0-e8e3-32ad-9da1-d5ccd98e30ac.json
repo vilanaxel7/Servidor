@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_slab_from_lime_slime_block_stonecutting": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 03:17:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-07-23 22:13:48 +0000"
@@ -908,6 +914,12 @@
   "smallships:recipes/jungle_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_wall": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 03:17:12 +0000"
     },
     "done": true
   },
@@ -2485,6 +2497,13 @@
     },
     "done": true
   },
+  "atum:core/ajourney": {
+    "criteria": {
+      "sand_dunes": "2024-07-24 01:25:35 +0000",
+      "sand_plains": "2024-07-24 01:25:38 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/bop_palm_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:15:19 +0000"
@@ -2690,9 +2709,21 @@
     },
     "done": true
   },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_pressure_plate": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 03:17:12 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce/spruce_nightstand_6": {
     "criteria": {
       "has_planks": "2024-07-23 22:24:09 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_stairs_from_lime_slime_block_stonecutting": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 03:17:12 +0000"
     },
     "done": true
   },
@@ -2827,6 +2858,13 @@
       "corrupted_pearl": "2024-07-23 23:32:42 +0000"
     },
     "done": true
+  },
+  "undergarden:undergarden/all_undergarden_biomes": {
+    "criteria": {
+      "frostfields": "2024-07-24 01:27:20 +0000",
+      "barren_abyss": "2024-07-24 02:38:41 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
@@ -2972,6 +3010,12 @@
     },
     "done": true
   },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_wall_from_lime_slime_block_stonecutting": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 03:17:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-07-23 23:42:01 +0000"
@@ -3005,6 +3049,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-07-23 22:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-07-24 03:51:30 +0000"
     },
     "done": true
   },
@@ -3275,6 +3325,12 @@
   "mcwfurnitures:recipes/warped/warped_double_desk_left": {
     "criteria": {
       "has_planks": "2024-07-23 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-07-24 03:09:50 +0000"
     },
     "done": true
   },
@@ -3641,6 +3697,12 @@
     },
     "done": true
   },
+  "undergarden:undergarden/enter_undergarden": {
+    "criteria": {
+      "enter_undergarden": "2024-07-24 01:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-07-23 22:44:44 +0000"
@@ -3740,6 +3802,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-07-23 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "atum:core/journeyintothesands": {
+    "criteria": {
+      "entered_atum": "2024-07-24 01:25:27 +0000"
     },
     "done": true
   },
@@ -4130,6 +4198,12 @@
     },
     "done": true
   },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_button": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 03:17:12 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_hoe_smithing": {
     "criteria": {
       "has_stick": "2024-07-23 22:25:12 +0000"
@@ -4205,6 +4279,12 @@
   "mcwfurnitures:recipes/dark_oak/dark_oak_plant_pot_right": {
     "criteria": {
       "has_planks": "2024-07-24 00:31:01 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_stairs": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 03:17:12 +0000"
     },
     "done": true
   },
@@ -4289,6 +4369,12 @@
   "mcwfurnitures:recipes/warped/warped_chair": {
     "criteria": {
       "has_planks": "2024-07-23 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-07-24 02:58:13 +0000"
     },
     "done": true
   },
@@ -4471,7 +4557,8 @@
       "cooked_porkchop": "2024-07-23 23:23:11 +0000",
       "bread": "2024-07-23 22:42:08 +0000",
       "golden_apple": "2024-07-24 00:24:22 +0000",
-      "rotten_flesh": "2024-07-23 22:32:04 +0000"
+      "rotten_flesh": "2024-07-23 22:32:04 +0000",
+      "cookie": "2024-07-24 04:03:31 +0000"
     },
     "done": false
   },
@@ -4665,6 +4752,12 @@
   "smallships:recipes/lotr_lebethron_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-07-24 02:58:13 +0000"
     },
     "done": true
   },
@@ -4923,6 +5016,12 @@
   "smallships:recipes/bop_redwood_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-07-24 03:08:58 +0000"
     },
     "done": true
   },
@@ -5637,6 +5736,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-07-23 22:44:44 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_slab": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 03:17:12 +0000"
     },
     "done": true
   },

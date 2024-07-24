@@ -1,19 +1,13 @@
 {
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2024-07-23 22:34:29 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_green_oak_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
+  "sworddisplay:recipes/sworddisplay/golden_sword_display": {
     "criteria": {
-      "has_furnace": "2024-07-23 22:25:23 +0000"
+      "has_core": "2024-07-24 06:08:09 +0000"
     },
     "done": true
   },
@@ -29,12 +23,6 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_desk_left": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
   "slimier-slimes:recipes/slimier-slimes/orange_slime_ball": {
     "criteria": {
       "has_jelly": "2024-07-23 22:54:40 +0000"
@@ -47,9 +35,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_hellbark_war_galley": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_planks": "2024-07-24 06:44:55 +0000"
     },
     "done": true
   },
@@ -68,6 +56,2793 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/smogstem_torch_ditchbulb": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-07-23 23:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-07-24 03:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:32:29 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_mahogany_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-07-23 22:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2024-07-23 22:35:35 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pine_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_glass_desk_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_hammer_smithing": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2024-07-23 22:25:37 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/iron_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-07-24 03:16:19 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "atum:core/unundead": {
+    "criteria": {
+      "wraith": "2024-07-24 05:11:28 +0000",
+      "mummy": "2024-07-24 04:43:01 +0000",
+      "forsaken": "2024-07-24 04:43:41 +0000"
+    },
+    "done": false
+  },
+  "charginggadgets:recipes/charginggadgets/charging_station": {
+    "criteria": {
+      "has_diamonds": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cherry_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_dresser": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/birch_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_pult_2": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_pult_3": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_pult_4": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_stool_chair": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/birch_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_stool_chair": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_pult_1": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/purple_slime_ball": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_slab_from_lime_slime_block_stonecutting": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 00:32:35 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-07-24 06:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cherry_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-07-23 22:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-07-24 03:11:01 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/inky_stew": {
+    "criteria": {
+      "has_ink_mushroom": "2024-07-23 22:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-07-23 22:32:08 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/steel_disk": {
+    "criteria": {
+      "requirement_2": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-07-23 22:46:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser_9": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2024-07-24 02:40:15 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser_7": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser_6": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_iron": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser_5": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/sail_item": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser_4": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser_3": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "atum:core/amirage": {
+    "criteria": {
+      "entered_atum": "2024-07-24 04:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_covered_desk_right": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_double_desk_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_chair": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-07-24 03:17:33 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-07-23 22:27:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_plant_pot_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_jacaranda_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "sworddisplay:recipes/sworddisplay/acacia_sword_display": {
+    "criteria": {
+      "has_core": "2024-07-24 06:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-07-23 22:35:11 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/yellow_slime_ball": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/misc/green_dye": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "atum:core/killorbekilled": {
+    "criteria": {
+      "mummy": "2024-07-24 04:43:01 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-07-23 23:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-07-23 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_magic_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/misc/light_blue_dye": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/golden_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_wall": {
+    "criteria": {
+      "has_shiverstone": "2024-07-24 02:40:15 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mirk_oak_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/jungle_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-07-24 06:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-07-24 07:48:23 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_modern_desk_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_modern_chair": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-07-23 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/oak_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_covered_desk_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-07-23 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/diamond_shard": {
+    "criteria": {
+      "requirement_1": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_willow_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-07-23 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/jungle_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_wall": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 00:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-07-24 00:33:04 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_dresser_6": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_dresser_5": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_dresser_4": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_dresser_3": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_furniture_7": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_furniture_6": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_dresser_3": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_furniture_4": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_dresser_4": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_furniture_3": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_furniture_2": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_furniture_1": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_dresser_7": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_dresser_5": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_dresser_6": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_dresser_9": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-07-23 22:27:54 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_palm_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_wisteria_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/smogstem_boat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_mahogany_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-07-23 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/oak_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-07-23 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_jacaranda_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_desk_right": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2024-07-23 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_green_oak_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/pink_slime_ball": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-23 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/drawer": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "oresabovediamonds:main/find_amethyst": {
+    "criteria": {
+      "found_amethyst": "2024-07-24 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_mahogany_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_covered_desk_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-23 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_jacaranda_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-07-23 22:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-07-23 22:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-07-23 23:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-07-23 22:24:10 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/misc/black_dye": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_brick_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2024-07-24 02:40:15 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_wisteria_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_plant_pot_right": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2024-07-23 22:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2024-07-24 06:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_modern_desk_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-07-23 23:16:59 +0000",
+      "minecraft:warped_forest": "2024-07-23 22:58:20 +0000",
+      "minecraft:basalt_deltas": "2024-07-23 22:52:01 +0000"
+    },
+    "done": false
+  },
+  "mcwfurnitures:recipes/spruce/spruce_dresser_14": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-07-23 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_dresser_12": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_dresser_13": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-07-24 07:48:23 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_dresser_11": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-07-23 22:24:10 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_chair": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/ink_mushroom_to_dye": {
+    "criteria": {
+      "has_ink_mushroom": "2024-07-23 22:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-07-24 05:51:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_modern_desk_right": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-07-24 05:53:32 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-07-23 22:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_bricks": {
+    "criteria": {
+      "has_shiverstone": "2024-07-24 02:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-07-24 00:18:07 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/andesite_pedestal": {
+    "criteria": {
+      "has_andesite_pillar": "2024-07-24 05:53:32 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_striped_chair": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/diamond_disk": {
+    "criteria": {
+      "requirement_2": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-07-24 00:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-07-24 03:17:33 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_glass_desk_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_chair": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/green_slime_ball": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2024-07-24 02:40:15 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pine_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_modern_chair": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:netherportal": {
+    "criteria": {
+      "crafting_table": "2024-07-23 23:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_pult": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_plate": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_ball": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/brown_slime_ball": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-07-24 07:48:23 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_pult_4": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_pult_3": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_pult_2": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_pult_1": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-23 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "evolved_rpg:evolved_rpg_root": {
+    "criteria": {
+      "evolved_rpg_root": "2024-07-23 23:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/belt": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_desk_right": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-24 05:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-07-24 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_stool_chair": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-07-23 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-07-24 06:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser_11": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_beech_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-07-24 07:48:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-23 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2024-07-23 22:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-07-23 22:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-07-23 22:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-07-24 03:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-07-24 05:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-07-24 05:57:51 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/acacia_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-07-24 03:11:01 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_diamond": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-23 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_modern_desk_right": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-07-23 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-07-24 05:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-23 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-07-23 22:51:50 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/oak_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-23 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2024-07-24 02:40:15 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-07-24 05:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-07-23 22:24:31 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-07-23 22:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_plant_pot_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-07-23 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/dark_oak_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-07-24 05:57:51 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_wisteria_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/light_gray_slime_ball": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_magic_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2024-07-23 23:32:29 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_double_desk_right": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-24 05:57:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-07-23 22:59:24 +0000"
+    },
+    "done": true
+  },
+  "sworddisplay:recipes/sworddisplay/sword_case": {
+    "criteria": {
+      "has_core": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/blue_slime_ball": {
+    "criteria": {
+      "has_jelly": "2024-07-23 22:54:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cherry_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/spruce_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/chiseled_shiverstone_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2024-07-24 02:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2024-07-23 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-07-24 03:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-07-23 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/acacia_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/spruce_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-07-23 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/ender_block": {
+    "criteria": {
+      "has_ender_pearl": "2024-07-23 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_nightstand_10": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_palm_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_nightstand_11": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/birch_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_willow_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "atum:core/ajourney": {
+    "criteria": {
+      "sand_dunes": "2024-07-24 04:42:49 +0000",
+      "deadwood_forest": "2024-07-24 04:51:58 +0000",
+      "deadoasis": "2024-07-24 04:45:43 +0000",
+      "limestone_crags": "2024-07-24 04:44:54 +0000",
+      "sand_plains": "2024-07-24 04:42:52 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/bop_palm_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-07-24 07:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-24 06:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_nightstand_11": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_nightstand_10": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/undergarden_scaffolding": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_green_oak_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-07-23 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-07-23 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2024-07-23 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser_12": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser_13": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/recycler": {
+    "criteria": {
+      "requirement_1": "2024-07-23 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_dresser_14": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-07-24 04:35:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-07-23 23:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_nightstand_9": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_beech_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2024-07-23 22:25:37 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000",
+      "has_the_recipe": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:11:01 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_button": {
+    "criteria": {
+      "has_shiverstone": "2024-07-24 02:40:15 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_nightstand_8": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "farlanders:recipes/nightfall_sword": {
+    "criteria": {
+      "has_item": "2024-07-24 00:17:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_nightstand_5": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_pressure_plate": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 00:32:35 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_nightstand_6": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_stairs_from_lime_slime_block_stonecutting": {
+    "criteria": {
+      "has_lime_slime_block": "2024-07-24 00:32:35 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_nightstand_3": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_nightstand_4": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_nightstand_2": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_plant_pot_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-07-23 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_striped_chair": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "sworddisplay:recipes/sworddisplay/golden_sword_case": {
+    "criteria": {
+      "has_core": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/root": {
+    "criteria": {
+      "auto": "2024-07-23 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_nightstand_10": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_nightstand_11": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:42 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_plant_pot_right": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_redwood_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-07-24 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-07-24 06:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-07-24 00:18:07 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_dresser_box": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-07-24 03:11:01 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pine_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_leather": "2024-07-23 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "sworddisplay:recipes/sworddisplay/birch_sword_display": {
+    "criteria": {
+      "has_core": "2024-07-23 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-07-24 00:18:07 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_drakkar": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-07-23 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_pearl": "2024-07-23 23:32:29 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/all_undergarden_biomes": {
+    "criteria": {
+      "frostfields": "2024-07-24 02:38:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:32:29 +0000"
+    },
+    "done": true
+  },
+  "toolleveling:recipes/tool_leveling_table": {
+    "criteria": {
+      "has_enchanted_book": "2024-07-24 03:07:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_rowboat": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_plant_pot_right": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_cog": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_brigg": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_glass_desk_right": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_pearl": {
+    "criteria": {
+      "corrupted_pearl": "2024-07-23 23:32:29 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-07-23 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "atum:core/pyramidscheme": {
+    "criteria": {
+      "in_pyramid": "2024-07-24 04:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-07-23 22:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-07-23 22:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-07-24 05:53:32 +0000"
+    },
+    "done": true
+  },
+  "sworddisplay:recipes/sworddisplay/acacia_sword_case": {
+    "criteria": {
+      "has_core": "2024-07-24 06:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce/spruce_desk_left": {
+    "criteria": {
+      "has_planks": "2024-07-23 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_war_galley": {
+    "criteria": {
+      "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
@@ -95,15 +2870,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+      "has_stone_bricks": "2024-07-24 05:57:51 +0000"
     },
     "done": true
   },
@@ -119,45 +2888,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:19:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:50 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/decorations/smogstem_torch_ditchbulb": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_larch_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2024-07-23 23:11:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:42:23 +0000"
     },
     "done": true
   },
@@ -173,15 +2906,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-07-24 03:41:13 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_palm_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
-      "has_planks": "2024-07-23 23:32:29 +0000"
+      "has_stone": "2024-07-24 03:25:27 +0000"
     },
     "done": true
   },
@@ -191,45 +2930,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_mahogany_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2024-07-23 22:24:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting": {
-    "criteria": {
-      "has_gold_ore": "2024-07-23 22:35:35 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_gold": "2024-07-23 23:13:57 +0000"
     },
     "done": true
   },
-  "smallships:recipes/lotr_pine_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/thallasium_pickaxe_smithing": {
     "criteria": {
       "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_glass_desk_left": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
     },
     "done": true
   },
@@ -242,12 +2951,6 @@
   "undergarden:recipes/undergarden_group/catalyst": {
     "criteria": {
       "has_iron": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_mallorn_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
@@ -269,39 +2972,21 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/terminite_hammer_smithing": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_cypress_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "smallships:recipes/bop_umbran_galley": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_mossy_cobblestone": "2024-07-24 05:57:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_iron_ore": "2024-07-23 22:25:37 +0000"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/iron_hammer": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lebethron_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_bow": "2024-07-24 07:07:34 +0000"
     },
     "done": true
   },
@@ -317,31 +3002,7 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_cherry_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_maple_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_umbran_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_fir_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_larch_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -353,21 +3014,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_leggings": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/oak/oak_cupboard_5": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:42:23 +0000"
     },
     "done": true
   },
@@ -377,27 +3026,27 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/birch/birch_dresser": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/oak/oak_cupboard_9": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/oak/oak_cupboard_8": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
+      "has_gold_nugget": "2024-07-24 05:52:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/shield": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+      "has_nether_wart": "2024-07-24 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_cupboard_8": {
+    "criteria": {
+      "has_planks": "2024-07-23 22:23:25 +0000"
     },
     "done": true
   },
@@ -431,33 +3080,9 @@
     },
     "done": true
   },
-  "smallships:recipes/birch_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_umbran_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_pult_2": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_pult_3": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
     },
     "done": true
   },
@@ -467,39 +3092,15 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_pult_4": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_cypress_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/birch/birch_stool_chair": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_aspen_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_mossy_cobblestone": "2024-07-24 05:57:52 +0000"
     },
     "done": true
   },
@@ -509,39 +3110,9 @@
     },
     "done": true
   },
-  "slimier-slimes:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_stool_chair": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
   "slimier-slimes:recipes/misc/red_dye": {
     "criteria": {
       "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_pult_1": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/slimier-slimes/purple_slime_ball": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
     },
     "done": true
   },
@@ -551,43 +3122,7 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_cherry_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_slab_from_lime_slime_block_stonecutting": {
-    "criteria": {
-      "has_lime_slime_block": "2024-07-24 00:32:35 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/fir_boat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:19:06 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cherry_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/dark_oak_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -599,33 +3134,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-07-24 06:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-07-23 22:22:14 +0000"
     },
     "done": true
   },
-  "simpleplanes:recipes/plane": {
+  "sworddisplay:recipes/sworddisplay/iron_sword_display": {
     "criteria": {
-      "in_fire": "2024-07-23 22:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/undergarden_group/inky_stew": {
-    "criteria": {
-      "has_ink_mushroom": "2024-07-23 22:37:03 +0000"
+      "has_core": "2024-07-24 06:31:40 +0000"
     },
     "done": true
   },
@@ -641,21 +3170,21 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "sworddisplay:recipes/sworddisplay/iron_sword_case": {
     "criteria": {
-      "iron_leggings": "2024-07-23 22:32:08 +0000"
+      "has_core": "2024-07-24 06:31:40 +0000"
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
+      "has_mossy_stone_bricks": "2024-07-24 05:57:51 +0000"
     },
     "done": true
   },
-  "corail_recycler:recipes/steel_disk": {
+  "atum:core/assassinassin": {
     "criteria": {
-      "requirement_2": "2024-07-23 22:25:58 +0000"
+      "assassin": "2024-07-24 05:25:25 +0000"
     },
     "done": true
   },
@@ -665,9 +3194,18 @@
     },
     "done": true
   },
-  "smallships:recipes/dark_oak_cog": {
+  "undergarden:recipes/undergarden_group/shiverstone_slab_stonecutting": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_undergarden:shiverstone": "2024-07-24 02:40:15 +0000"
+    },
+    "done": true
+  },
+  "atum:core/lawbringer": {
+    "criteria": {
+      "barbarian": "2024-07-24 04:48:03 +0000",
+      "sergeant": "2024-07-24 04:51:17 +0000",
+      "brigand": "2024-07-24 04:47:13 +0000",
+      "nomad": "2024-07-24 04:54:47 +0000"
     },
     "done": true
   },
@@ -695,21 +3233,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_logs": "2024-07-23 23:49:06 +0000"
+      "has_sand": "2024-07-24 03:18:26 +0000"
     },
     "done": true
   },
   "smallships:recipes/lotr_cedar_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-07-23 22:46:01 +0000"
     },
     "done": true
   },
@@ -761,6 +3293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-07-24 03:11:01 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -770,12 +3308,6 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_dresser_9": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
     },
     "done": true
   },
@@ -791,27 +3323,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/oak/oak_dresser_7": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_dresser_6": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/iron_fishing_rod": {
-    "criteria": {
-      "has_iron": "2024-07-23 22:25:58 +0000"
     },
     "done": true
   },
@@ -821,39 +3335,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/oak/oak_dresser_5": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/sail_item": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/birch/birch_nightstand_2": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_dresser_4": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_dresser_3": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
     },
     "done": true
   },
@@ -866,12 +3350,6 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-07-23 22:34:28 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_larch_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
@@ -935,9 +3413,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_covered_desk_right": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
+      "has_diamond": "2024-07-24 06:08:09 +0000"
     },
     "done": true
   },
@@ -949,15 +3427,18 @@
       "minecraft:vindicator": "2024-07-23 23:30:25 +0000",
       "minecraft:magma_cube": "2024-07-23 22:59:16 +0000",
       "minecraft:spider": "2024-07-23 22:34:28 +0000",
+      "minecraft:creeper": "2024-07-24 03:09:07 +0000",
+      "minecraft:wither_skeleton": "2024-07-24 06:02:08 +0000",
       "minecraft:husk": "2024-07-24 00:24:50 +0000",
       "minecraft:enderman": "2024-07-23 23:26:22 +0000",
+      "minecraft:stray": "2024-07-24 05:53:07 +0000",
       "minecraft:zombie": "2024-07-23 23:38:02 +0000"
     },
     "done": false
   },
-  "mcwfurnitures:recipes/birch/birch_double_desk_left": {
+  "betterendforge:recipes/betterendforge/diamond_hammer": {
     "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
+      "has_diamond_ingot": "2024-07-24 06:08:09 +0000"
     },
     "done": true
   },
@@ -973,25 +3454,19 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-07-24 07:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-07-24 03:15:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_apple_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cypress_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_chair": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_holly_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -1009,18 +3484,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_cypress_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_cherry_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -1033,24 +3496,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:42:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_pickaxe": "2024-07-23 22:27:54 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_plant_pot_left": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_maple_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -1060,12 +3505,6 @@
   "sworddisplay:recipes/sworddisplay/spruce_sword_display": {
     "criteria": {
       "has_core": "2024-07-23 23:32:29 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_jacaranda_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
@@ -1093,27 +3532,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_rotten_drakkar": {
+  "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-07-23 22:35:11 +0000"
+      "has_yellow_wool": "2024-07-24 03:15:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:42 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/slimier-slimes/yellow_slime_ball": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
     },
     "done": true
   },
@@ -1129,19 +3556,7 @@
     },
     "done": true
   },
-  "slimier-slimes:recipes/misc/green_dye": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_palm_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -1153,63 +3568,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
+  "atum:core/ruinedit": {
     "criteria": {
-      "killed_by": "2024-07-23 23:19:09 +0000"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-07-23 23:19:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:42 +0000"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_magic_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
+      "in_ruin": "2024-07-24 04:43:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-07-23 23:19:06 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/misc/light_blue_dye": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
     },
     "done": true
   },
@@ -1225,12 +3592,6 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/golden_hammer": {
-    "criteria": {
-      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_willow_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -1243,9 +3604,15 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
+  "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/enter_undergarden": {
+    "criteria": {
+      "enter_undergarden": "2024-07-24 02:38:37 +0000"
     },
     "done": true
   },
@@ -1261,31 +3628,7 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_mirk_oak_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/oak_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/jungle_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_larch_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -1297,27 +3640,15 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/birch/birch_modern_desk_left": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
+      "has_blue_flower": "2024-07-24 04:32:22 +0000"
     },
     "done": true
   },
   "mcwfurnitures:recipes/oak/oak_furniture_7": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_modern_chair": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
     },
     "done": true
   },
@@ -1330,12 +3661,6 @@
   "mcwfurnitures:recipes/oak/oak_furniture_6": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:50 +0000"
     },
     "done": true
   },
@@ -1363,12 +3688,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2024-07-23 22:54:05 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_lairelosse_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -1387,33 +3706,9 @@
     },
     "done": true
   },
-  "smallships:recipes/oak_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2024-07-24 00:54:08 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_covered_desk_left": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-07-23 22:37:19 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_willow_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
@@ -1423,9 +3718,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+  "atum:core/journeyintothesands": {
     "criteria": {
-      "has_blackstone": "2024-07-23 22:54:05 +0000"
+      "entered_atum": "2024-07-24 04:42:49 +0000"
     },
     "done": true
   },
@@ -1453,39 +3748,9 @@
     },
     "done": true
   },
-  "smallships:recipes/jungle_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "slimier-slimes:recipes/slimier-slimes/gray_slime_ball": {
     "criteria": {
       "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_wall": {
-    "criteria": {
-      "has_lime_slime_block": "2024-07-24 00:32:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-07-24 00:33:04 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_hellbark_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
     },
     "done": true
   },
@@ -1495,43 +3760,13 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_dresser_6": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_beech_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_dresser_5": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_beech_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_dresser_4": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_dresser_3": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_larch_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -1549,21 +3784,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_furniture_7": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/oak/oak_furniture_1": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_furniture_6": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
     },
     "done": true
   },
@@ -1579,69 +3802,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/birch/birch_dresser_3": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_furniture_4": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_dresser_4": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_furniture_3": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-07-23 23:39:09 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_furniture_2": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_furniture_1": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_dresser_7": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_dresser_5": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
     },
     "done": true
   },
@@ -1657,43 +3820,13 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/birch/birch_dresser_6": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/birch/birch_pult": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:46 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/birch/birch_dresser_9": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-07-23 22:27:54 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_dead_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_mallorn_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_palm_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -1705,45 +3838,21 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_wisteria_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/undergarden_group/smogstem_boat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_mahogany_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-07-23 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/oak_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/birch/birch_dresser_13": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:25:27 +0000"
     },
     "done": true
   },
@@ -1765,57 +3874,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/birch/birch_dresser_11": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
-      "has_blackstone": "2024-07-23 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:32:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:42:23 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_jacaranda_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
     },
     "done": true
   },
   "mcwfurnitures:recipes/birch/birch_dresser_14": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_desk_right": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_oak_planks": "2024-07-23 22:23:42 +0000"
     },
     "done": true
   },
@@ -1831,63 +3904,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:42 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/spruce/spruce_nightstand": {
     "criteria": {
       "has_planks": "2024-07-23 23:49:06 +0000"
     },
     "done": true
   },
-  "smallships:recipes/lotr_green_oak_cog": {
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_diorite": "2024-07-24 07:48:23 +0000"
     },
     "done": true
   },
-  "slimier-slimes:recipes/misc/gray_dye": {
+  "farlanders:kill_classic_enderman": {
     "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/slimier-slimes/pink_slime_ball": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_maple_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-07-23 22:22:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/drawer": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
+      "classic_enderman": "2024-07-24 04:46:30 +0000"
     },
     "done": true
   },
@@ -1897,19 +3928,13 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_cherry_brigg": {
+  "atum:core/thefullmuseum": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "horus_soaring": "2024-07-24 05:22:48 +0000"
     },
-    "done": true
+    "done": false
   },
   "smallships:recipes/envi_wisteria_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_dead_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -1939,43 +3964,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
     "criteria": {
       "has_stick": "2024-07-23 22:22:52 +0000"
     },
     "done": true
   },
-  "oresabovediamonds:main/find_amethyst": {
+  "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
-      "found_amethyst": "2024-07-24 00:29:22 +0000"
+      "has_diorite": "2024-07-24 07:48:23 +0000"
     },
     "done": true
   },
   "smallships:recipes/lotr_green_oak_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/acacia_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_mahogany_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lebethron_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -1999,27 +4000,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/envi_willow_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_covered_desk_left": {
+  "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
+      "has_stone": "2024-07-24 03:25:27 +0000"
     },
     "done": true
   },
@@ -2033,30 +4022,15 @@
       "minecraft:jungle": "2024-07-23 22:18:26 +0000",
       "minecraft:jungle_hills": "2024-07-24 00:23:15 +0000",
       "minecraft:bamboo_jungle": "2024-07-23 23:05:26 +0000",
+      "minecraft:beach": "2024-07-24 06:30:20 +0000",
       "minecraft:river": "2024-07-23 22:20:16 +0000",
       "minecraft:wooded_mountains": "2024-07-24 00:22:59 +0000",
       "minecraft:wooded_hills": "2024-07-23 22:23:56 +0000",
+      "minecraft:swamp": "2024-07-24 06:34:37 +0000",
+      "minecraft:savanna": "2024-07-24 06:34:27 +0000",
       "minecraft:plains": "2024-07-24 00:34:16 +0000"
     },
     "done": false
-  },
-  "smallships:recipes/lotr_pear_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-07-23 22:22:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_jacaranda_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
   },
   "mcwfurnitures:recipes/oak/oak_glass_desk_left": {
     "criteria": {
@@ -2088,21 +4062,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2024-07-23 22:24:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
-      "has_cobblestone": "2024-07-23 22:24:10 +0000"
+      "has_mossy_stone_bricks": "2024-07-24 05:57:51 +0000"
     },
     "done": true
   },
@@ -2112,21 +4080,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-07-23 23:40:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-07-23 22:24:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:25:27 +0000"
     },
     "done": true
   },
@@ -2148,12 +4110,6 @@
     },
     "done": true
   },
-  "slimier-slimes:recipes/misc/black_dye": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_apple_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -2166,9 +4122,21 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_wisteria_brigg": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_polished_andesite": "2024-07-24 05:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_the_recipe": "2024-07-24 07:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-07-24 06:08:09 +0000"
     },
     "done": true
   },
@@ -2184,27 +4152,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_rotten_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_plant_pot_right": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis": "2024-07-23 22:35:11 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_mallorn_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-07-24 03:15:46 +0000"
     },
     "done": true
   },
@@ -2214,65 +4170,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_modern_desk_left": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_aspen_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "undergarden:recipes/undergarden_group/shiverstone_wall_stonecutting": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-07-23 23:16:59 +0000",
-      "minecraft:warped_forest": "2024-07-23 22:58:20 +0000",
-      "minecraft:basalt_deltas": "2024-07-23 22:52:01 +0000"
-    },
-    "done": false
-  },
-  "mcwfurnitures:recipes/spruce/spruce_dresser_14": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
+      "has_undergarden:shiverstone": "2024-07-24 02:40:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
-      "has_golden_boots": "2024-07-23 23:13:59 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_dresser_12": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_dresser_13": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_dresser_11": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
+      "has_andesite": "2024-07-24 03:11:01 +0000"
     },
     "done": true
   },
@@ -2282,9 +4194,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-07-24 03:11:01 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/cabinet_door": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2024-07-24 03:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-07-24 06:44:55 +0000"
     },
     "done": true
   },
@@ -2294,21 +4224,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2024-07-23 22:24:10 +0000"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/end_stone_furnace": {
     "criteria": {
       "has_end_stone": "2024-07-24 00:18:07 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_apple_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
@@ -2318,15 +4236,15 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/oak/oak_chair": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
   "farlanders:root": {
     "criteria": {
       "attack": "2024-07-23 22:21:23 +0000"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_empty": {
+    "criteria": {
+      "has_diamonds": "2024-07-24 06:08:09 +0000"
     },
     "done": true
   },
@@ -2336,27 +4254,9 @@
     },
     "done": true
   },
-  "undergarden:recipes/misc/ink_mushroom_to_dye": {
-    "criteria": {
-      "has_ink_mushroom": "2024-07-23 22:37:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-07-23 22:24:10 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_modern_desk_right": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
     },
     "done": true
   },
@@ -2372,15 +4272,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_cherry_cog": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/willow_boat": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_andesite": "2024-07-24 03:11:01 +0000"
     },
     "done": true
   },
@@ -2390,27 +4290,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_fir_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/iron_chandelier": {
     "criteria": {
       "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-07-23 22:51:50 +0000"
     },
     "done": true
   },
@@ -2438,9 +4320,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
+      "has_cooked_rabbit": "2024-07-24 05:51:59 +0000"
     },
     "done": true
   },
@@ -2462,27 +4344,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-07-24 07:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-07-24 03:25:27 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_maple_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_boat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
     },
     "done": true
   },
@@ -2492,51 +4368,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-07-24 00:18:07 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_striped_chair": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_aspen_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/diamond_disk": {
-    "criteria": {
-      "requirement_2": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_holly_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_fir_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2024-07-24 00:47:18 +0000"
     },
     "done": true
   },
@@ -2558,39 +4392,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/tools/wooden_fillet_knife": {
-    "criteria": {
-      "has_items": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_jacaranda_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_larch_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_glass_desk_left": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_cherry_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_chair": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
     },
     "done": true
   },
@@ -2600,15 +4404,15 @@
     },
     "done": true
   },
-  "slimier-slimes:recipes/slimier-slimes/green_slime_ball": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_umbran_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-07-24 05:54:19 +0000"
     },
     "done": true
   },
@@ -2624,21 +4428,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pine_war_galley": {
+  "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_modern_chair": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
     },
     "done": true
   },
@@ -2651,49 +4443,15 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-07-23 23:20:31 +0000",
-      "bread": "2024-07-23 22:26:15 +0000"
+      "apple": "2024-07-24 03:27:46 +0000",
+      "bread": "2024-07-23 22:26:15 +0000",
+      "golden_carrot": "2024-07-24 03:57:08 +0000"
     },
     "done": false
-  },
-  "inventorypets:netherportal": {
-    "criteria": {
-      "crafting_table": "2024-07-23 23:08:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_pult": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_apple_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
   },
   "smallships:recipes/lotr_cedar_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_plate": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
     },
     "done": true
   },
@@ -2704,18 +4462,6 @@
     "done": true
   },
   "slimier-slimes:recipes/slimier-slimes/black_slime_ball": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/slimier-slimes/lime_slime_ball": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/slimier-slimes/brown_slime_ball": {
     "criteria": {
       "has_jelly": "2024-07-23 22:54:40 +0000"
     },
@@ -2745,45 +4491,15 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/oak/oak_pult_4": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_pult_3": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_pult_2": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/jungle_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_willow_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/oak/oak_pult_1": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-07-23 22:22:14 +0000"
+      "has_mossy_stone_bricks": "2024-07-24 05:57:51 +0000"
     },
     "done": true
   },
@@ -2791,12 +4507,6 @@
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000",
       "has_the_recipe": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "evolved_rpg:evolved_rpg_root": {
-    "criteria": {
-      "evolved_rpg_root": "2024-07-23 23:08:24 +0000"
     },
     "done": true
   },
@@ -2809,24 +4519,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-07-23 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
-    },
-    "done": true
-  },
-  "toolbelt:recipes/belt": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:19:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_desk_right": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
     },
     "done": true
   },
@@ -2848,39 +4540,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_hellbark_rowboat": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_stool_chair": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-07-23 22:34:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:42 +0000"
+      "has_mossy_cobblestone": "2024-07-24 05:57:52 +0000"
     },
     "done": true
   },
@@ -2896,12 +4558,6 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/oak/oak_dresser_11": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-07-23 22:51:27 +0000"
@@ -2914,37 +4570,13 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_beech_war_galley": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_cherry_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_smooth_stone": "2024-07-24 03:26:04 +0000"
     },
     "done": true
   },
   "smallships:recipes/bop_willow_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pear_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-07-23 22:22:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_cherry_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -2956,39 +4588,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_apple_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/undergarden_group/gloom_o_lantern": {
-    "criteria": {
-      "has_torch": "2024-07-23 22:28:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-07-23 22:24:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-07-23 22:21:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2024-07-23 22:24:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
     },
     "done": true
   },
@@ -3010,15 +4612,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/oak/oak_nightstand_6": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-07-24 06:09:13 +0000"
     },
     "done": true
   },
@@ -3034,18 +4636,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/oak/oak_nightstand_9": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
@@ -3058,33 +4648,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mallorn_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/spruce/spruce_dresser_9": {
     "criteria": {
       "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/acacia_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
@@ -3112,9 +4684,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
+      "has_obsidian": "2024-07-24 04:35:55 +0000"
     },
     "done": true
   },
@@ -3130,21 +4702,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pear_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/oak/oak_nightstand_3": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2024-07-23 22:25:58 +0000"
     },
     "done": true
   },
@@ -3166,9 +4726,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pear_galley": {
+  "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_planks": "2024-07-24 06:44:55 +0000"
     },
     "done": true
   },
@@ -3179,12 +4739,6 @@
     "done": true
   },
   "smallships:recipes/birch_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -3214,33 +4768,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_fir_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-07-23 22:22:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_modern_desk_right": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2024-07-23 22:24:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
-    "criteria": {
-      "has_blackstone": "2024-07-23 22:54:05 +0000"
     },
     "done": true
   },
@@ -3262,21 +4792,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:19:06 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/envi_willow_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-07-23 22:22:14 +0000"
     },
     "done": true
   },
@@ -3286,15 +4804,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lebethron_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-07-23 23:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-07-24 06:08:09 +0000"
     },
     "done": true
   },
@@ -3310,6 +4828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-07-24 06:08:09 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_cherry_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -3322,39 +4846,27 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-07-23 22:51:50 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/oak_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-07-23 22:22:14 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_redwood_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "smallships:recipes/lotr_lairelosse_rowboat": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "traded": "2024-07-24 03:05:38 +0000"
     },
     "done": true
   },
   "smallships:recipes/bop_fir_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
     },
     "done": true
   },
@@ -3382,12 +4894,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:50 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_mirk_oak_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -3400,9 +4906,9 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_log": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "has_log": "2024-07-23 22:22:46 +0000"
+      "diamond": "2024-07-24 06:08:09 +0000"
     },
     "done": true
   },
@@ -3412,63 +4918,15 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-07-23 22:24:31 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_dead_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2024-07-23 22:21:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_plant_pot_left": {
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-07-23 22:22:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:50 +0000"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/gold_chandelier": {
-    "criteria": {
-      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/dark_oak_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_iron_block": "2024-07-24 06:31:40 +0000"
     },
     "done": true
   },
@@ -3478,21 +4936,15 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_wisteria_rowboat": {
+  "undergarden:recipes/undergarden_group/shiverstone_brick_stairs_stonecutting": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_undergarden:shiverstone": "2024-07-24 02:40:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/slimier-slimes/light_gray_slime_ball": {
-    "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
+      "has_smooth_stone": "2024-07-24 03:26:04 +0000"
     },
     "done": true
   },
@@ -3514,33 +4966,21 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_magic_cog": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/spruce/spruce_cupboard_8": {
     "criteria": {
       "has_planks": "2024-07-23 23:49:06 +0000"
     },
     "done": true
   },
-  "undergarden:recipes/undergarden_group/wigglewood_boat": {
+  "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_spruce_planks": "2024-07-23 23:32:29 +0000"
+      "has_mossy_stone_bricks": "2024-07-24 05:57:51 +0000"
     },
     "done": true
   },
@@ -3556,15 +4996,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_double_desk_right": {
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
     "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2024-07-23 22:59:24 +0000"
+      "has_cooked_rabbit": "2024-07-24 05:51:59 +0000"
     },
     "done": true
   },
@@ -3580,18 +5014,6 @@
     },
     "done": true
   },
-  "sworddisplay:recipes/sworddisplay/sword_case": {
-    "criteria": {
-      "has_core": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_umbran_war_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_willow_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -3604,15 +5026,15 @@
     },
     "done": true
   },
-  "slimier-slimes:recipes/slimier-slimes/blue_slime_ball": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
-      "has_jelly": "2024-07-23 22:54:40 +0000"
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/palm_boat": {
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_diamond": "2024-07-24 06:08:09 +0000"
     },
     "done": true
   },
@@ -3646,21 +5068,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_cherry_galley": {
+  "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_white_wool": "2024-07-24 03:10:13 +0000"
     },
     "done": true
   },
   "mcwfurnitures:recipes/birch/birch_furniture_3": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_dresser": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
     },
     "done": true
   },
@@ -3677,12 +5093,6 @@
     "done": true
   },
   "biomesoplenty:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/spruce_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -3706,18 +5116,6 @@
     },
     "done": true
   },
-  "undergarden:undergarden/root": {
-    "criteria": {
-      "tick": "2024-07-23 22:18:26 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_aspen_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-07-23 22:54:07 +0000"
@@ -3727,6 +5125,18 @@
   "smallships:recipes/bop_fir_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-07-24 03:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-07-24 06:44:55 +0000"
     },
     "done": true
   },
@@ -3760,39 +5170,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2024-07-23 23:13:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-07-23 22:24:10 +0000"
     },
     "done": true
   },
-  "smallships:recipes/acacia_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/spruce_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-07-23 22:51:27 +0000"
-    },
-    "done": true
-  },
   "mining_dimension:recipes/decorations/teleporter": {
     "criteria": {
       "has_log": "2024-07-23 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_pressure_plate": {
+    "criteria": {
+      "has_shiverstone": "2024-07-24 02:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-24 05:57:52 +0000"
     },
     "done": true
   },
@@ -3808,9 +5206,9 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/ender_block": {
+  "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
-      "has_ender_pearl": "2024-07-23 23:26:23 +0000"
+      "has_diorite": "2024-07-24 07:48:23 +0000"
     },
     "done": true
   },
@@ -3820,51 +5218,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/oak/oak_nightstand_10": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_palm_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_nightstand_11": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-07-23 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_willow_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_palm_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/terminite_shovel_smithing": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
     },
     "done": true
   },
@@ -3874,39 +5230,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-07-24 05:53:32 +0000"
+    },
+    "done": true
+  },
   "slimier-slimes:recipes/misc/light_gray_dye": {
     "criteria": {
       "has_jelly": "2024-07-23 22:54:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_helmet": {
+  "undergarden:recipes/undergarden_group/shiverstone_stairs": {
     "criteria": {
-      "has_gold_ingot": "2024-07-23 23:13:57 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_nightstand_11": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_nightstand_10": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:42 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_shiverstone": "2024-07-24 02:40:15 +0000"
     },
     "done": true
   },
@@ -3916,33 +5254,9 @@
     },
     "done": true
   },
-  "undergarden:recipes/decorations/undergarden_scaffolding": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_redwood_brigg": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_green_oak_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2024-07-23 22:54:05 +0000"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
     },
     "done": true
   },
@@ -3976,12 +5290,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2024-07-23 22:54:05 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_cherry_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -4000,63 +5308,21 @@
     },
     "done": true
   },
-  "inventorypets:root": {
-    "criteria": {
-      "auto": "2024-07-23 22:18:26 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_dresser_12": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_dresser_13": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/recycler": {
-    "criteria": {
-      "requirement_1": "2024-07-23 22:22:50 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak/oak_dresser_14": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2024-07-23 23:48:58 +0000"
-    },
-    "done": true
-  },
   "endrem:main/rogue_pearl": {
     "criteria": {
       "rogue_pearl": "2024-07-24 00:29:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "has_leather": "2024-07-23 23:19:06 +0000"
+      "has_log": "2024-07-24 06:43:00 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_nightstand_9": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_beech_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_redstone_torch": "2024-07-24 05:53:35 +0000"
     },
     "done": true
   },
@@ -4072,34 +5338,15 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/spruce/spruce_double_desk_left": {
     "criteria": {
       "has_planks": "2024-07-23 23:49:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot": {
-    "criteria": {
-      "has_iron_ore": "2024-07-23 22:25:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_lairelosse_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/oak_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000",
-      "has_the_recipe": "2024-07-23 22:20:14 +0000"
     },
     "done": true
   },
@@ -4121,19 +5368,13 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lebethron_rowboat": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "shot_crossbow": "2024-07-24 04:44:54 +0000"
     },
     "done": true
   },
   "smallships:recipes/dark_oak_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -4145,51 +5386,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_nightstand_8": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "farlanders:recipes/nightfall_sword": {
-    "criteria": {
-      "has_item": "2024-07-24 00:17:26 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_nightstand_5": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_pressure_plate": {
-    "criteria": {
-      "has_lime_slime_block": "2024-07-24 00:32:35 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_nightstand_6": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "slimier-slimes:recipes/slimier-slimes/lime_slime_block_stairs_from_lime_slime_block_stonecutting": {
-    "criteria": {
-      "has_lime_slime_block": "2024-07-24 00:32:35 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_nightstand_3": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_nightstand_4": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
+      "has_mossy_stone_bricks": "2024-07-24 05:57:51 +0000"
     },
     "done": true
   },
@@ -4199,27 +5398,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_nightstand_2": {
+  "undergarden:recipes/undergarden_group/shiverstone_slab": {
     "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_plant_pot_left": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-07-23 23:34:19 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_striped_chair": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
+      "has_shiverstone": "2024-07-24 02:40:15 +0000"
     },
     "done": true
   },
@@ -4241,6 +5422,12 @@
     },
     "done": true
   },
+  "farlanders:kill_mystic_enderman": {
+    "criteria": {
+      "mystic_enderman": "2024-07-24 04:44:41 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch/birch_cupboard_7": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:46 +0000"
@@ -4259,25 +5446,7 @@
     },
     "done": true
   },
-  "corail_recycler:tutorial/root": {
-    "criteria": {
-      "auto": "2024-07-23 22:18:26 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/birch/birch_cupboard_5": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_nightstand_10": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_nightstand_11": {
     "criteria": {
       "has_planks": "2024-07-23 22:22:46 +0000"
     },
@@ -4301,12 +5470,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:42 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/spruce_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -4314,18 +5477,6 @@
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch/birch_plant_pot_right": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_redwood_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -4343,15 +5494,15 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_plate": {
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
+      "has_stone": "2024-07-24 03:25:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
+  "mcwfurnitures:recipes/spruce/spruce_plate": {
     "criteria": {
-      "has_end_stone": "2024-07-24 00:18:07 +0000"
+      "has_planks": "2024-07-23 23:49:06 +0000"
     },
     "done": true
   },
@@ -4361,19 +5512,7 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce/spruce_dresser_box": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pine_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -4382,12 +5521,6 @@
   "smallships:recipes/birch_rowboat": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/backpack_small": {
-    "criteria": {
-      "has_leather": "2024-07-23 23:19:06 +0000"
     },
     "done": true
   },
@@ -4403,25 +5536,13 @@
     },
     "done": true
   },
-  "sworddisplay:recipes/sworddisplay/birch_sword_display": {
+  "atum:core/itbelongsinamuseum": {
     "criteria": {
-      "has_core": "2024-07-23 22:22:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-07-24 00:18:07 +0000"
+      "horus_soaring": "2024-07-24 05:22:48 +0000"
     },
     "done": true
   },
   "smallships:recipes/bop_magic_drakkar": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_dead_drakkar": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
     },
@@ -4439,15 +5560,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_planks": "2024-07-23 22:22:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-07-23 22:54:05 +0000"
+      "has_enchanted_golden_apple": "2024-07-24 06:25:33 +0000"
     },
     "done": true
   },
@@ -4469,15 +5584,9 @@
     },
     "done": true
   },
-  "endrem:main/root": {
+  "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "corrupted_pearl": "2024-07-23 23:32:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:32:29 +0000"
+      "has_stone": "2024-07-24 03:25:27 +0000"
     },
     "done": true
   },
@@ -4493,21 +5602,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_holly_rowboat": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
   "sworddisplay:recipes/sworddisplay/spruce_sword_case": {
     "criteria": {
       "has_core": "2024-07-23 23:32:29 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce/spruce_plant_pot_right": {
-    "criteria": {
-      "has_planks": "2024-07-23 23:49:06 +0000"
     },
     "done": true
   },
@@ -4523,15 +5620,9 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_cherry_cog": {
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lairelosse_brigg": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
+      "has_diamond": "2024-07-24 06:08:09 +0000"
     },
     "done": true
   },
@@ -4547,36 +5638,6 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/oak/oak_glass_desk_right": {
-    "criteria": {
-      "has_planks": "2024-07-23 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/corrupted_pearl": {
-    "criteria": {
-      "corrupted_pearl": "2024-07-23 23:32:29 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_maple_galley": {
-    "criteria": {
-      "in_water": "2024-07-23 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_stick": "2024-07-23 22:22:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-07-23 22:25:58 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_cypress_cog": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -4586,6 +5647,12 @@
   "mcwfurnitures:recipes/oak/oak_modern_chair": {
     "criteria": {
       "has_planks": "2024-07-23 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-24 05:57:52 +0000"
     },
     "done": true
   },

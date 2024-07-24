@@ -2091,6 +2091,18 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_medium": {
+    "criteria": {
+      "has_small_backpack": "2024-07-24 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-07-24 22:36:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-07-23 22:24:31 +0000"
@@ -2464,6 +2476,12 @@
   "inventorypets:root": {
     "criteria": {
       "auto": "2024-07-23 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-07-24 22:35:42 +0000"
     },
     "done": true
   },
@@ -3474,7 +3492,8 @@
       "minecraft:husk": "2024-07-24 00:24:50 +0000",
       "minecraft:enderman": "2024-07-23 23:26:22 +0000",
       "minecraft:stray": "2024-07-24 05:53:07 +0000",
-      "minecraft:zombie": "2024-07-23 23:38:02 +0000"
+      "minecraft:zombie": "2024-07-23 23:38:02 +0000",
+      "minecraft:zombie_villager": "2024-07-24 22:34:50 +0000"
     },
     "done": false
   },
@@ -3538,6 +3557,12 @@
     },
     "done": true
   },
+  "endrem:main/lost_pearl": {
+    "criteria": {
+      "lost_pearl": "2024-07-24 22:37:34 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_maple_war_galley": {
     "criteria": {
       "in_water": "2024-07-23 22:20:14 +0000"
@@ -3571,6 +3596,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-07-23 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2024-07-24 22:41:52 +0000"
     },
     "done": true
   },
@@ -4573,6 +4604,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-07-23 22:54:05 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_tag": {
+    "criteria": {
+      "has_small_backpack": "2024-07-24 22:41:52 +0000"
     },
     "done": true
   },
